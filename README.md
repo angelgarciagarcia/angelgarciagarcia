@@ -1,5 +1,5 @@
 - 👋 Hola! soy Ángel García.
-- 🌱 Actualmente estoy estudiando programación.
+- 🌱 Actualmente estoy estudiando DAM en CIPFP Mislata.
 - 📫 Puedes contactarme por correo: angelgarcia23599@gmail.com
 - 🌐 [angel.github.io](https://angelgarciagarcia.github.io/angel.github.io/inicio.html)
 
